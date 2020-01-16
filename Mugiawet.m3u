@@ -1,8 +1,7 @@
 #EXTM3U
 
 Lokal
-#EXTINF:-1 tvg-id="" tvg-name="TVRI 1" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV
@@ -55,10 +54,8 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_s
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 02
 https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 03
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 04
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1779661610_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" tvg-country="ID" tvg-url="" group-title="Lokal",Net TV 01
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" tvg-country="ID" tvg-url="" group-title="Lokal",Net TV 02
@@ -115,6 +112,8 @@ https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/800px-BeritaSatu.png" tvg-country="ID" tvg-url="" group-title="Lokal",Berita Satu SD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI 1" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
 religi
