@@ -140,12 +140,17 @@ religi
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="Religi",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://2.bp.blogspot.com/-oARlzDZHfY0/VgzWA61vkeI/AAAAAAAAbOo/yRxn0TTxKoQ/s40-c/tahfidz-tv-logo.png" tvg-country="ID" tvg-url="" group-title="",Tahfizh TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://2.bp.blogspot.com/-oARlzDZHfY0/VgzWA61vkeI/AAAAAAAAbOo/yRxn0TTxKoQ/s40-c/tahfidz-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Religi",Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gw8JvF4.png" tvg-country="ID" tvg-url="" group-title="",Saling Sapa TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gw8JvF4.png" tvg-country="ID" tvg-url="" group-title="Religi",Saling Sapa TV
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png" tvg-country="ID" tvg-url="" group-title="",InsanTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png" tvg-country="ID" tvg-url="" group-title="Religi",InsanTV
 http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religi",Makkah Live
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religi",Madinah Live
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
 
 kidz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kidz",Animax 01
@@ -162,10 +167,10 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Kidz",My Kids
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://en.wikipedia.org/wiki/EGG_Network#/media/File:EGG_Network_Logo_used_since_2016.png" group-title="Kidz",egg network
-http://45.126.83.51/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="Kidz",Duck tv HD
 http://51.15.190.120:38099/duckhd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" tvg-country="ID" tvg-url="" group-title="Kidz",Nickelodeon
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
 
 
@@ -207,7 +212,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 Sport
-
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="Sport",egg network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Sport",TVRI SportHD1
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Sport",ESPN BR 1
@@ -246,5 +252,13 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="Sport",All Sport CBS
 http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/59e7af91a3ae6159bfefad90/picture" group-title="Sport",SportOne(siaran percobaan)
+http://203.153.218.26:9981/stream/channelid/896549830?ticket=850CB8B4F21CDAC9C37DCE88D1DE5CE510F8B361&profile=pass
 
-
+NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="Nat Geo",Nat geo
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="Nat Geo",Nat geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="Nat Geo",Nat geo Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
