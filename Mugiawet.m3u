@@ -118,9 +118,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-7Akx-synkCQ/WNSybbdDM2I/AAAAAAAAh1g/DmA3gLpwCSQVRjOREoFORpGtA0CqEyU7gCLcB/s40-c/my-cinema-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Lokal",My Cinema TV
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-country="ID" tvg-url="" group-title="Lokal",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcIndonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
 
@@ -130,7 +130,7 @@ religi
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="http://tv9.co.id/images/foot-icon.png" group-title="Religi",TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",Tahfizh TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://2.bp.blogspot.com/-oARlzDZHfY0/VgzWA61vkeI/AAAAAAAAbOo/yRxn0TTxKoQ/s40-c/tahfidz-tv-logo.png" tvg-country="ID" tvg-url="" group-title="",Tahfizh TV
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gw8JvF4.png" tvg-country="ID" tvg-url="" group-title="",Saling Sapa TV
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
