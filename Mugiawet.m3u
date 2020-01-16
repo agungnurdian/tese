@@ -108,7 +108,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-7Akx-synkCQ/WNSybbdDM2I/AAAAAAAAh1g/DmA3gLpwCSQVRjOREoFORpGtA0CqEyU7gCLcB/s40-c/my-cinema-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Lokal",My Cinema TV
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian tvg-language="Indonesian" tvg-logo="https://www.k-vision.tv/uploads/2018/08/xzeebioskop.png.pagespeed.ic.jUSkZudEpF.png" tvg-country="ID" tvg-url="" group-title="Lokal",ZEE Bioskop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-country="ID" tvg-url="" group-title="Lokal",ZEE Bioskop
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Discovery channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
@@ -140,6 +140,9 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW6526h63-5EJAKwRQ1bIEP4PkkC8PoT14PV01fzTw2jwLohnacaoGAj2mkA_&s" tvg-country="ID" tvg-url="" group-title="Lokal",UseeTV Photo
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
 
 religi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/AHSAN-TV-Logo-1-1.png" group-title="Religi",Ahsan TV
@@ -152,10 +155,12 @@ http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
 http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://maramissetiawan.files.wordpress.com/2012/03/logo.png" tvg-country="ID" tvg-url="" group-title="Religi",InsanTV
 http://wz.insantv.net/group/ngrp:insantv_all/chunklist_b1627136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religi",Makkah Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://banner2.cleanpng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" tvg-country="ID" tvg-url="" group-title="Religi",Makkah Live
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religi",Madinah Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://banner2.cleanpng.com/20180402/jhw/kisspng-saudi-arabia-saudi-vision-2030-logo-cdr-saudi-5ac1d922732d98.6423420615226534744718.jpg" tvg-country="ID" tvg-url="" group-title="Religi",Madinah Live
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://4.bp.blogspot.com/-bmBVl5uSDWA/Vtp5Zln91XI/AAAAAAAAcl4/yHa_66WrE_s/s40-c/dmi-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Religi",DMI Channel
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 
 
 kidz
@@ -267,3 +272,17 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="Nat Geo",Nat geo Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+
+Korean
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" tvg-country="ID" tvg-url="" group-title="korean",K+ 01
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" tvg-country="ID" tvg-url="" group-title="korean",K+ 02
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" tvg-url="" group-title="korean",Korean Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/211px-Sony_One.png" tvg-country="ID" tvg-url="" group-title="korean",SONY ONE
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/YTN_NEW_CI_%28after_2014.04.07%29.png/640px-YTN_NEW_CI_%28after_2014.04.07%29.png" tvg-country="ID" tvg-url="" group-title="korean",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
