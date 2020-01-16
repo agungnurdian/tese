@@ -1,7 +1,18 @@
 #EXTM3U
 
 Lokal
-
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN
+http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN
+http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 01
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 02
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Lokal",Thrill SD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Lokal",Thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV
@@ -76,6 +87,8 @@ http://45.126.83.51/qwr9ew/s/s12/index.m3u8
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV 04
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV HD
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Metro TV 01
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Metro TV 02
@@ -92,22 +105,24 @@ https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southea
 http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sinefilm_id.jpg" group-title="",Sinema Indonesia 02
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN
-http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN
-http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 01
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 02
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" tvg-country="ID" tvg-url="" group-title="Lokal",Ruang Terampil
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/800px-BeritaSatu.png" tvg-country="ID" tvg-url="" group-title="Lokal",Berita Satu HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/800px-BeritaSatu.png" tvg-country="ID" tvg-url="" group-title="Lokal",Berita Satu SD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI 1" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d4/Logo_RRI.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",RRI TV
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-7Akx-synkCQ/WNSybbdDM2I/AAAAAAAAh1g/DmA3gLpwCSQVRjOREoFORpGtA0CqEyU7gCLcB/s40-c/my-cinema-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Lokal",My Cinema TV
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-country="ID" tvg-url="" group-title="Lokal",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
 
 
 religi
@@ -177,8 +192,6 @@ Sport
 
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Sport",TVRI SportHD1
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Sport",TVRI SportHD2
-http://id1.indostreamingtv.com/live/tvri/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Sport",ESPN BR 1
 https://mj1b2xsspj.singularcdn.net.br/encompass/ESPN_Brasil/master_Layer3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/espn_br.jpg" group-title="Sport",ESPN BR 2
@@ -209,6 +222,11 @@ http://s.igiptv.com:8000/Tamim/tamim123/38
 http://s.igiptv.com:8000/Tamim/tamim123/38
 #EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD12
 http://s.igiptv.com:8000/Tamim/tamim123/1034
-
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png?1579163224054" group-title="Sport",Stadium Sport Network 
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://img.favpng.com/0/18/17/red-bull-tv-television-logo-red-bull-media-house-png-favpng-3VgXWBWhkB4zkxeinm0iBBa0h.jpg" group-title="Sport",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="Sport",All Sport CBS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
 
 
