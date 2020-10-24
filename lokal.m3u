@@ -1,363 +1,901 @@
 #EXTM3U
 
-Lokal
+(LOKAL)
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV HD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV SD
-https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/320px-MNCTV_logo.png" group-title="Lokal",MNCTV 01
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/300px-GlobalTV_%28Indonesia%29.svg.png" group-title="Lokal",GlobalTV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/300px-GlobalTV_%28Indonesia%29.svg.png" group-title="Lokal",GlobalTV SD
-https://live.rctiplus.id/rctiplus/gtv_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/GlobalTV_%28Indonesia%29.svg/300px-GlobalTV_%28Indonesia%29.svg.png" group-title="Lokal",GlobalTV 01
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/RCTI.png/320px-RCTI.png" group-title="Lokal",RCTI SD
-https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/RCTI.png/320px-RCTI.png" group-title="Lokal",RCTI HD
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/74/RCTI.png/320px-RCTI.png" group-title="Lokal",RCTI 02
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Inews 01
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/INews_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Inews 02
-https://live.rctiplus.id/rctiplus/inews_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Lokal",INDOSIAR 01
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Lokal",INDOSIAR 02
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Lokal",SCTV HD
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Lokal",SCTV SD
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="Lokal",SCTV 02
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kompas TV 01
-http://210.210.155.35/session/7a8726ba-3e8e-11ea-8366-c81f66f89318/qwr9ew/s/s104/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kompas TV 02
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kompas TV 03
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="Lokal",TransTV 01
-https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="Lokal",Trans TV 02
-http://210.210.155.35/qwr9ew/s/s100/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 01
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian"tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/320px-Trans_7_2013.svg.png" group-title="Lokal",Trans7 02
-https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" tvg-country="ID" tvg-url="" group-title="Lokal",Net TV 01
-http://210.210.155.35/session/ca68764e-1aa2-11ea-b992-973fbfc7a24b/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" tvg-country="ID" tvg-url="" group-title="Lokal",Net TV 02
-http://210.210.155.35/session/b891f2d4-3e8c-11ea-8366-c81f66f89318/qwr9ew/s/s08/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="Lokal",ANTV 01
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="Lokal",ANTV 02
-http://210.210.155.35/session/4b73eec2-3e8d-11ea-8366-c81f66f89318/qwr9ew/s/s102/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="Lokal",ANTV 03
-http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="Lokal",TVONE 01
-http://210.210.155.35/session/80725d52-3e8d-11ea-8366-c81f66f89318/qwr9ew/s/s105/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="Lokal",TVONE 02
-https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" tvg-country="ID" tvg-url="" group-title="",DAAI Indonesia 01
-http://45.126.83.51/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" tvg-country="ID" tvg-url="" group-title="",DAAI Indonesia 02
-http://210.210.155.35/session/4ac0a276-3e8e-11ea-8366-c81f66f89318/qwr9ew/s/s13/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV 01
-http://210.210.155.35:80/session/c34a0d22-1882-11ea-8c5e-826db1f08251/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV 02
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV 03
-http://210.210.155.35/session/bb080a84-3e8d-11ea-8366-c81f66f89318/qwr9ew/s/s12/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png" tvg-country="ID" tvg-url="" group-title="",Rajawali TV HD
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Metro TV 01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", ANTV 01
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TVONE 01
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", MNCTV 
+https://dl.dropbox.com/s/9frb7q2xlzowxmh/mnctv.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", MNCTV 02
+https://dl.dropbox.com/s/1evj6ayn5eibry1/mnctvsd.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RCTI
+https://dl.dropbox.com/s/rurf6j98vbbq2qc/rcti.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RCTI 02
+https://dl.dropbox.com/s/vq7pfqpqhqo9p5n/rctisd.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", GTV
+https://dl.dropbox.com/s/8o63cv3h7wpj0w0/global.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", GTV 01
+https://dl.dropbox.com/s/ixu9brg48199t0g/globalsd.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", INDOSIAR
+http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", INDOSIAR 01
+http://210.210.155.35/session/3b3e0ffc-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", INEWS TV
+https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", INEWS TV 01
+https://dl.dropbox.com/s/9xaqotwmanqm6xv/inews.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", SCTV 01
+https://mkctv.net/vidio,com/sctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RTV 01
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TRANS TV 01
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TRANS 7 
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TRANS 7 01
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", NET TV
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", NET TV 01
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", METRO TV 01
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Metro TV 02
-http://45.126.83.51/uq2663/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",Metro TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",JTV 01
-http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",JTV 02
-http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sinefilm_id.jpg" group-title="",Sinema Indonesia 01
-http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/sinefilm_id.jpg" group-title="",Sinema Indonesia 02
-http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.livetvcentral.com/imgs/tvs/589.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",TV Parlemen
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/298px-Logo_Jawapos_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",Jawa Pos TV
-https://livetvhooq.akamaized.net:443/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573600053~exp=9007200828341044~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_2/chunklist.m3u8*~hmac=34668c3a5d65ee732b03c74c8c5fe7f2bd27db8a18a14541660649e8fae2dfc4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI 01
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" tvg-country="ID" tvg-url="" group-title="Lokal",TVRI 02
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d4/Logo_RRI.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",RRI TV
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://3.bp.blogspot.com/-7Akx-synkCQ/WNSybbdDM2I/AAAAAAAAh1g/DmA3gLpwCSQVRjOREoFORpGtA0CqEyU7gCLcB/s40-c/my-cinema-tv-logo.png" tvg-country="ID" tvg-url="" group-title="Lokal",My Cinema TV
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW6526h63-5EJAKwRQ1bIEP4PkkC8PoT14PV01fzTw2jwLohnacaoGAj2mkA_&s" tvg-country="ID" tvg-url="" group-title="Lokal",UseeTV Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW6526h63-5EJAKwRQ1bIEP4PkkC8PoT14PV01fzTw2jwLohnacaoGAj2mkA_&s" tvg-country="ID" tvg-url="" group-title="Lokal",UseeTV Prime 02
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW6526h63-5EJAKwRQ1bIEP4PkkC8PoT14PV01fzTw2jwLohnacaoGAj2mkA_&s" tvg-country="ID" tvg-url="" group-title="Lokal",UseeTV Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnW6526h63-5EJAKwRQ1bIEP4PkkC8PoT14PV01fzTw2jwLohnacaoGAj2mkA_&s" tvg-country="ID" tvg-url="" group-title="Lokal",UseeTV Photo 02
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil.png" tvg-country="ID" tvg-url="" group-title="Lokal",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",MYTV 01
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-country="ID" tvg-url="" group-title="Lokal",MYTV 02
-http://rr2.dens.tv/s/s46/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/hi.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",HI!
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" tvg-country="ID" tvg-url="" group-title="Lokal",Id.KU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.foodie.id/assets/images/foodie-logo.png" tvg-country="ID" tvg-url="" group-title="Lokal",Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/Elshinta_tv_logo.jpg/200px-Elshinta_tv_logo.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",Elshinta
-http://45.126.83.51/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/MNCHomeLiving_tegak.jpg" tvg-country="ID" tvg-url="" group-title="Lokal",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN 01
-http://210.210.155.35/session/e436e198-65ba-11e9-994b-b82a72d63267/uq2663/h/h141/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/320px-AXN_Logo_2015.png" group-title="Lokal",AXN 02
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 01
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-country="ID" tvg-url="" group-title="Lokal",Kix 02
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Lokal",Thrill 01
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Lokal",Thrill 02
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-kids
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids",Animax 01
-http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids",Animax 02
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids",Aniplus 01
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids",Aniplus 02
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Kids",Disney Junior Indonesia 01
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="Kids",Disney Junior Indonesia 02
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/revision/latest?cb=20180713090314" group-title="Kids",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" tvg-country="ID" tvg-url="" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Ducktv-logo.jpg" group-title="Kids",Duck tv HD
-http://51.15.190.120:38099/duckhd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" tvg-country="ID" tvg-url="" group-title="Kids",Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/pc_banner_05.jpg" tvg-country="ID" tvg-url="" group-title="Kids",EBS KIDS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TVRI 01
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", JTV 
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8?checkedby:edwardsync.net
 
-Berita
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-country="ID" tvg-url="" group-title="Berita",CNBC Indonesia 01
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-country="ID" tvg-url="" group-title="Berita",CNBC Indonesia 02
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/240px-CNN_Indonesia.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",CNN Indonesia 01
-https://dl.dropbox.com/s/1tno4ahlb36dxd5/CNN%20Indo.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/240px-CNN_Indonesia.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",CNN Indonesia 02
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/800px-BeritaSatu.png" tvg-country="ID" tvg-url="" group-title="Berita",Berita Satu 01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", KOMPAS TV
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", KOMPAS TV 01
+http://rr2.dens.tv/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", CNBC INDO
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:edwardsync.net
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", MADU TV  Tulungaggung 
+https://v3.siar.us/madutv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", CNN INDO 01
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e7/BeritaSatu.png/800px-BeritaSatu.png" tvg-country="ID" tvg-url="" group-title="Berita",Berita Satu 02
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",Bloombreg Asia 01
-http://45.126.83.51/uq2663/h/h03/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",Bloombreg Asia 02
-http://rr.dens.tv/h/h03/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",DW 01
-http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/320px-Deutsche_Welle_Logo.svg.png" tvg-country="ID" tvg-url="" group-title="Berita",DW 02
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://webtvonlive.com/wp-content/uploads/Jakarta-Globe-News-webtvonlive-com.jpg" tvg-country="ID" tvg-url="" group-title="Berita",Jakarta Globe Channel
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BERITA SATU 01
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-Sport
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="http://www.egg.network/client/9f3c4191c8089642bc730aa9a4c49304.png" group-title="Sport",egg network
-http://210.210.155.35/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal",MYTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6c/Astro_supersport.gif" group-title="Sport",Astro supersport
-http://198.16.106.58:8278/ass1_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=867b4487d5d654a6e164f264984f0434
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal",TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6c/Astro_supersport.gif" group-title="Sport",Astro supersport 02
-http://198.16.106.58:8278/ass2_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=54a0a0c597d4a465e75b07f0fc8376c0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6c/Astro_supersport.gif" group-title="Sport",Astro supersport 03
-http://198.16.106.58:8278/ass3_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=6adc6b2ddd9c9de2440fd8e1bfa5ebae
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6c/Astro_supersport.gif" group-title="Sport",Astro supersport 04
-http://198.16.106.58:8278/ass4_gloyk1511/playlist.m3u8?tid=m70290ab09fb91755596&ct=18217&tsum=7eb77db396a9086c351c9fe02555dfbf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Sport",TVRI SportHD 01
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png" group-title="Sport",TVRI SportHD 02
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png?1579163224054" group-title="Sport",Stadium Sport Network 
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://img.favpng.com/0/18/17/red-bull-tv-television-logo-red-bull-media-house-png-favpng-3VgXWBWhkB4zkxeinm0iBBa0h.jpg" group-title="Sport",RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="Sport",All Sport CBS
-http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/59e7af91a3ae6159bfefad90/picture" group-title="Sport",SportOne(siaran percobaan)
-http://203.153.218.26:9981/stream/channelid/896549830?ticket=850CB8B4F21CDAC9C37DCE88D1DE5CE510F8B361&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/320px-Fight_network_logo.svg.png" group-title="Sport",FIGHT Network
-http://rr.dens.tv/h/h05/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/320px-Fight_network_logo.svg.png" group-title="Sport",FIGHT Network 02
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD1
-http://s.igiptv.com:8000/Tamim/tamim123/29
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD2
-http://s.igiptv.com:8000/Tamim/tamim123/30
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD3
-http://s.igiptv.com:8000/Tamim/tamim123/31
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD4
-http://s.igiptv.com:8000/Tamim/tamim123/32
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD5
-http://s.igiptv.com:8000/Tamim/tamim123/33
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD6
-http://s.igiptv.com:8000/Tamim/tamim123/34
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD7
-http://s.igiptv.com:8000/Tamim/tamim123/35
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD8
-http://s.igiptv.com:8000/Tamim/tamim123/36
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD9
-http://s.igiptv.com:8000/Tamim/tamim123/37
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD10
-http://s.igiptv.com:8000/Tamim/tamim123/38
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD11
-http://s.igiptv.com:8000/Tamim/tamim123/38
-#EXTINF:-1 tvg-id="" tvg-name"" tvg-language="Indonesian" tvg-logo="https://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="Sport",BEIN sport HD12
-http://s.igiptv.com:8000/Tamim/tamim123/1034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
 
-discovery
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="discovery",Nat geo
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="discovery",Nat geo People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/300px-National_Geographic_Channel.svg.png" tvg-country="ID" tvg-url="" group-title="discovery",Nat geo Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/800px-2019_Discovery_logo.svg.png" tvg-country="ID" tvg-url="" group-title="discovery",Discovery channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://api.discovery.com/v1/images/5bc91cba6b66d1494068339f?aspectRatio=original&width=105&height=&key=3020a40c2356a645b4b4" tvg-country="ID" tvg-url="" group-title="discovery",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RRI TV
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", JPN STREAM
+http://122.248.43.138:1935/ch24/myStream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", Asian Food CHANNEL
+http://203.153.218.28:9981/stream/channelid/1092664456
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", LIFESTYLE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", DAAI TV
+http://210.210.155.35/session/4ad0585c-b725-11e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TIC
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(86fd852d-e9cb-453c-ac75-e0edc588483b)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", AREK TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", DRAMA SANGAT HD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BAYU TV
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", MTV MUSIC
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/rattus/mtv_live_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BANDUNG TV
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", HI!
+https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", BLUE ANT ENTERTAIMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal",BLUE ANT EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", RIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", ANIMAL PLANET
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/07/History_channel_us.png/240px-History_channel_us.png" tvg-country="ID" tvg-url="" group-title="discovery",History Channel indonesia
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", SBO SURABAYA 
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", MTV MUSIC
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", Rodja TV
+http://rr2.dens.tv/s/s14/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", Thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/player.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", OKEY TV
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", Korea channel
+http://rr2.dens.tv/s/s42/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", TEMPO TV
+http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", HISTORY CHANNEL
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
-Entertaimen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", CELESTIAL MOVIE
+http://rr2.dens.tv/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", FOX ACTION
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", FOX FAMILY
+http://203.153.218.28:9981/stream/channelid/1949182550
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", FOX MOVIE
+http://203.153.218.28:9981/stream/channelid/756717990
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", FOX
+http://203.153.218.28:9981/stream/channelid/1910872088
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/320px-MTV_Logo_2010.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",MTV 
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Gem TV Asia 01
-http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Gem TV Asia 02
-http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Hits 01
-http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Hits 02
-http://45.126.83.51/uq2663/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",BluAnt Extreme 01
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",BluAnt Extreme 02
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",BlueAnt Entertainment 01
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",BlueAnt Entertainment 02
-http://210.210.155.35/dr9445/h/h16/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/320px-CMC_English_full_color_black_text_2.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Celestial Movies 01
-http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/320px-CMC_English_full_color_black_text_2.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Celestial Movies 02
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Dangdut TV 01
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",Dangdut TV 02
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/1Yr9nMG.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",J'go 01
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/1Yr9nMG.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",J'go 02
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",My Cinema 01
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",My Cinema 02
-http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Cinemax indonesia 01
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Cinemax indonesia 02
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",My Cinema 01
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",My Cinema 02
-http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Mix TV 01
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",Mix TV 02
-http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",ZEE Bioskop 01
-http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",ZEE Bioskop 02
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",FOX 01
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",FOX 02
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",FOX Family 01
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/800px-FOX_wordmark.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",FOX Family 02
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",HBO Signature indonesia 01
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" tvg-country="ID" tvg-url="" group-title="Entertaimen",HBO Signature indonesia 02
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.jpg" tvg-country="ID" tvg-url="" group-title="Entertaimen",HBO hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Lokal", DISCOVERY CHANNEL
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+
+(KIDS)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", TECHSTROM (GAME)
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", ROOSTER TEETH TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", EGG NETWORK
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", ANIPLUS 01
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", ANIMAX
+http://210.210.155.35/dr9445/h/h144/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", ANIMAX 01
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:edwardsync.net
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", DISNEY JUNIOR 01
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", GEM KIDS
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", CARTOON NETWORK 01
+http://203.153.218.28:9981/stream/channelid/251475608
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", GEM JUNIOR 
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", NICK jr
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/rattus/nick_junior_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", PBS KIDS 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", DUNIA ANAK
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/rattus/dunia_anak_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", NICK
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", LARVA
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", BEN 10
+http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", TOM & JERRY
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="KIDS", NICKLODEON
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/rattus/nickelodeon_rattus/playlist.m3u8
+
+(SPORT)
 
 
-VOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", FIGHT SPORT
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://mtix21.com/wp-content/uploads/2019/11/eU0orGizEpOli4wtN8HtfOOJDlA.jpg" group-title="VOD",Gundala (2019)
-https://r4---sn-npoeenl7.googlevideo.com/videoplayback?expire=1579946638&ei=bvYrXrryOOam3LUPtLKKcA&ip=2400:6180:0:d1::69c:f001&id=db3e72f68e7998cb&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=7187.945&lmt=1579860293505220&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRgIhAON8Dq-EyrGcOfRbjZb7obHcqLBMlirLpMqqdm7ebAjrAiEAkazs26YU0OBymQ0L6Praa2XMXPwUZRCv0egFvUv7eW0=&mip=167.71.204.81&redirect_counter=1&rm=sn-npoz77z&req_id=8d8f93fe128aa3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeenl7&ms=nxu&mt=1579939344&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgT9RlgJM3J-1dt_sSBIwzSGBiSEr6NaN8C6wTsgx5gmgCIQCLl16LHhQ3KDrgHaH3NLudp-e6IqvOtdHzuPylisK0NQ==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", RTSH 
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", bein
+http://stream99.astalavistababy.xyz/selcuksportsfutbol/bein4444/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", BEIN 1
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", BEIN 2
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", useesport
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/HUlbfvrn/rattus/useesports_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", useesport 2
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/HUlbfvrn/rattus/useesports2_rattus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", Champion 1
+https://mkctv.my.id/tv/champion.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", Champion 2
+https://mkctv.my.id/tv/champion2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", fox sport
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", fox sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", fox sport 3
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", BEIN EXTRA
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", ESPN EXTRA
+http://playcompany.ddns.net:80/123456/12345678/4080?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", FOX SPORT 1 USA
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", RTM SPORT
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", RTM SPORT 2
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", USEE SPORT
+https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", ESPN HD
+http://playcompany.ddns.net:80/123456/12345678/4088?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", TENIS 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", TENIS 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", Mola sport free
+https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", UFC 
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", SONY TEN 1
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", SONY TEN 2
+https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", WWE CHANNEL
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", ARENA SPORT 
+http://45.58.62.92:8080
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", TRUE EPL 1
+https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", TRUE EPL 2
+https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", TRUE EPL 3
+https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", MotoGP (ALTERNATIF FOX)
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", MotoGP 2 (ALTERNATIF FOX)
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", OLYMPIC CHANNEL
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", CCTV 5
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", SUPER TENIS
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="SPORT", fight network
+http://salaamiptv.online:80/play/kartubyu@gmail.com/08081977/KKQO49EI/pratensis/fight_network_pratensis/playlist.m3u8
 
 
+(VOD)
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg?resize=60%2C90" group-title="VOD",Superlopez (2018)
-https://r1---sn-npoe7ney.googlevideo.com/videoplayback?expire=1579947790&ei=7vorXpqjJ4iM1Ab5nrXIBw&ip=2400:6180:0:d1::69c:f001&id=92915cb8ecc79348&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6437.337&lmt=1579892155652922&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgdXUvcrokriS9JRHWPk7nj04lINbjKYIuR9PaRS4us2ICIG9uOsb3e8__S6LA6B4qzCblF6c0ZJKnIF6zLwjzS8_A&cm2rm=sn-npoz77e,sn-npoz77e&req_id=d01358cf96f2a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npoz77e&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1579940542&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhALyTSlmC-12adFGHAh7FImRdmwZoZXrCYcdvzdsWQBXmAiBaM0dUItEbap2qsgcy5foroFxHaSI7KlYjKsa1lYFCAw==
+#EXTINF:0 tvg-id="ext" group-title="VOD",Transformers (2007) 
+https://lh3.googleusercontent.com/Kr3DVg5_cgsAXQ973lWU9zSDJlSuPP9Xe26K4h-w0Nn0WzDR-CqGABUUKox0ZSv183GER98QUo9jD78M_Q=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Transformers: Revenge of the Fallen (2009) 
+https://lh3.googleusercontent.com/agnj6cv9ftj36bJ5aw57IIcyNxDQrl0yZUdBqNpkdeNt0UQE8ZJhjkSHUCnmihXaMkKEtzyACaW3OzfDZQ=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Transformers: Dark of the Moon (2011) 
+https://lh3.googleusercontent.com/dLyLwxvq3u--piWExrhbtu3mTxNVEjkk4rsQsBfBFGEWh5jFDldz5dxl426h3h8dmj8qqhGk57kagyT3Bg=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Transformers: Age of Extinction (2014) 
+https://lh3.googleusercontent.com/3IMYQ8FRl5PlsjDNQX5etcMly-Yls-pn7I8Zk2VmSRQHl-KXp6Zof8qI_KD5H6ihNKQJRm7ssHfcSSoypA=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Transformers: The Last Knight (2017) 
+https://lh3.googleusercontent.com/8k0XH4p3iet6WkV9XoBrqRTYIAedbiMC6fuRJ5tReYGostiOBDqItVJwapPFk6ET0JcW5qpHbV27ncPDyw=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Bumblebee (2018) 
+https://lh3.googleusercontent.com/YJmYY9CVyW4y7yKpzmt9-dhlRpeK_YnpeGQNbiMQH5z0vrezUKJqqdHfwMEu3mM12NRYhWiOISAWzAZrTQ=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Twilight (2008) 
+https://lh3.googleusercontent.com/B-mNLgOOgxJC75QyFtRO5jffsiH8p1I42-qUnAMs0y-ixBOh5P8pUcOZLbA59XqKE5xSArhGHWhANvfjZg=m37
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Twilight : NEW MOON (2009) 
+https://lh3.googleusercontent.com/Rdf4CHvfJVZD3h4XzRdNOkjyhof4joJMl2EDlSoWy-7O_EyNsgwB07sOd3PMTCEiudS7YfiFONd_eHeTvw=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Twilight : ECLIPSE (2010) 
+https://lh3.googleusercontent.com/-g8REJ-ZF-m-oeQaLKzTOb_0vbfgTB63y-T3iMHfMaulmMjHkIXQ6Ui0iZc5Tkl_ze1-OgNb-ZP23iFTEQ=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Twilight : BREAKING DAWN PART 1 (2011) 
+https://lh3.googleusercontent.com/Tn04FmQFvs_6HtFpo3r27Mwa_YRM4w0mNa7jotClImHhtBkxiNxieDbpR8WkRobdhKpHEsVkLuof6JRloQ=m37
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Twilight : BREAKING DAWN PART 2 (2012) 
+https://lh3.googleusercontent.com/oXNjLTyKa9oz3FBzLAFGkEYK5HbwZM-fKU3uabhrh40uymL3mtkNOOy1UJh-ZH1s9JYIifydpFh-aw3S=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP MAN 1 (2008) 
+https://lh3.googleusercontent.com/oMGp_o3U-InROk-2o3nP-AqbKi_vjjZN2bZCchdqLcCtgdSOrMNSHNm6HbyPHBTr1ZlZS5Aubrkcxuy1jg=m22?filmbluray.iD.m3u
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP MAN 2 (2010) 
+https://lh3.googleusercontent.com/VfnOW9uLw5QwzvELL6GhHDj_lmuVX8lEuXGwjEn0WI34BqWAFhoTbgeLHlPxWQOO12jB2kVh88eH9gTqEQ=m22?filmbluray.iD.m3u
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",AD Astra(2019) 
+https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Aeronauts(2019) 
+https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Incredible Hulk 
+https://dl.dropboxusercontent.com/s/ic4littizw9k2zm/-%20The%20Incredible%20Hulk%20%282008%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Iron Man 
+https://dl.dropboxusercontent.com/s/wjygq8gdl6d9xb7/-%20Iron%20Man%20%282008%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Iron Man 2 
+https://dl.dropboxusercontent.com/s/qdix7rehc2x52t2/-%20Iron%20Man%202%20%282010%29%20jf.mp4?dl=0 
 
+#EXTINF:0 tvg-id="avi" group-title="VOD",THOR 
+https://dl.dropboxusercontent.com/s/mata5nd6kp3nklc/-%20Thor%20%282011%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",CAPTAIN AMERICA - THE FIRST AVENGER 
+https://dl.dropboxusercontent.com/s/q5dg42ojunzknbh/-%20Captain%20America_%20The%20First%20Avenger%20%282011%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",THE AVENGER 
+https://dl.dropboxusercontent.com/s/myoqc659xiht43y/-%20The%20Avengers%20%282012%29.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Sonic the Hedgehog (2020) 
+https://www.dropbox.com/s/hx1b27aus81yire/%5BFILMAPIK.CA%5D%20-%20Sonic%20the%20Hedgehog%20%282020%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Cry Havoc (2020) 
+https://www.dropbox.com/s/ewv4znb9sfy0u10/%5BFILMAPIK.INFO%5D%20-%20Cry%20Havoc%20%282020%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Brahms: The Boy II (2020) 
+https://www.dropbox.com/s/b6vg53n4v168iii/%5BFILMAPIK.INFO%5D%20-%20Brahms_%20The%20Boy%20II%20%282020%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",Cek Toko Sebelah 
+https://www.dropbox.com/s/3r67w11s71y6aod/%5BIndoShare%20Film%5D%20Cek%20Toko%20Sebelah%20%282016%29%20720p.mkv?dl=1 
 
-#EXTINF:-1 tvg-logo="https://web3.21cineplex.com/movie-images/19MIBI.jpg" group-title="VOD",Men in Black International (2019)
-https://r5---sn-npoe7ne6.googlevideo.com/videoplayback?expire=1579949124&ei=JAAsXtqeLp663LUP8NGy8AU&ip=2400:6180:0:d1::69c:f001&id=55af55a61a6774ef&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6897.116&lmt=1579871779936297&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAKs02azapFmRyAPKukBXLWbfqdDLeffWKprC20IWElQfAiAI1uRejKO451lqqUtvBz9ZU36dQeR6lQbUIBqhn-0z1w==&cm2rm=sn-nposs76,sn-npoly76&req_id=58198730eb53a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-nposs76&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7ne6&ms=ltu&mt=1579941865&mv=m&mvi=4&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgDf_tkQ4CU9LeIVN44o_wmntAysZoD67eS3sDuYqGg1oCIHenXoq-kR-HtEG3YSjnjt69p0gXDTzd8ZkaIzIAQxL6
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Assistant (2019) 
+https://www.dropbox.com/s/7lx17iabc0tho4k/%5BFILMAPIK.INFO%5D%20-%20The%20Assistant%20%282019%29_2.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Hercules (2014) 
+https://www.dropbox.com/s/r75r7b2cwhoqyoe/%5BFILMAPIK.CA%5D%20-%20Hercules%20%282014%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Joker 
+https://www.dropbox.com/s/cifwbrg591959bu/joker.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Iru Mugan 
+https://www.dropbox.com/s/3txkiawva4obm1k/iru%20mugan.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Spy Undercover Operation 
+https://www.dropbox.com/s/sxtdu9o5b5e6m3j/the%20spy%20undercover%20operation.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Tom and Jerry Spy Quest 
+https://www.dropbox.com/s/et5ulcdsb231ava/Tom%20and%20Jerry%20Spy%20Quest.mp4?dl=1 
 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Saaho 
+https://www.dropbox.com/s/1z29nes2fubrbsy/sahoo.mp4?dl=1 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg?resize=170%2C255" group-title="VOD",One Piece: Stampede (2019)
-https://r3---sn-npoeene6.googlevideo.com/videoplayback?expire=1579949213&ei=fQAsXoKOCIqQ3LUP16a-mAI&ip=2400:6180:0:d1::69c:f001&id=40856273d7c1eed1&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6066.468&lmt=1579895866991406&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAImwmUtEK-66zKfyYgP6bWbr0vcXYWLC34PJR3aqQfihAiEAxXaJ3jaWN04l2RLz1t_iqDJ-5tn8kcMl0faWlpj0_Pg=&cm2rm=sn-nposs7s,sn-nposs7s&req_id=4ee12302dba7a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-nposl7s&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeene6&ms=ltu&mt=1579941984&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgSnsoY2RuKzuGXZ2W5PGgY8gP6cXW1ESqso7o03uW6yoCIQCqq7ht62ZI0_TlbpJHTh2zgy7slsrTcIqrGpz5eRJu2w==
+#EXTINF:0 tvg-id="avi" group-title="VOD",Parasite 
+https://www.dropbox.com/s/c7e9xfwi8q703yn/Nonton%20Film%20Parasite%20%282019%29%20Subtitle%20Indonesia%20_%20XX1%20Filmapik.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Bloodshot 
+https://www.dropbox.com/s/uxy6j2763m66644/Nonton%20Film%20Bloodshot%20%282020%29%20Subtitle%20Indonesia%20_%20XX1%20Filmapik.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Maleficent 2014 
+https://www.dropbox.com/s/84y4y75g83i4tod/Nonton.%20Movie%20Maleficent%20%282014%29%20Sub%20Indo%20-%20XX1%20Film%20Bioskop%20Terbaru%20Layarkaca%2021%20LK21.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Maleficent 2019 
+https://www.dropbox.com/s/33kfblolkp7832s/JURAGANFILM.TV%20-%20Maleficent-%20Mistress%20of%20Evil%20%282019%29%20jf.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",CHAPPIE (2015) 
+https://www.dropbox.com/s/t5ccb31y2zn6ik9/%5BFILMAPIK.CA%5D%20-%20Chappie%20%282015%29_2.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Star Wars- The Rise of Skywalker (2019) 
+https://www.dropbox.com/s/5l1w2evf17jvedw/%5BFILMAPIK.CA%5D%20-%20Star%20Wars-%20The%20Rise%20of%20Skywalker%20%282019%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Logan 2017 
+https://www.dropbox.com/s/xrce0ot7lp83m6f/%5BFILMAPIK.CA%5D%20-%20Logan%20%282017%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",DEADPOOL 2016 
+https://www.dropbox.com/s/t3ibj44fcaaqhvy/%5BFILMAPIK.CA%5D%20-%20Deadpool%20%282016%29.mp4?dl=1 
 
-#EXTINF:-1 tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/19022300.jpg" group-title="VOD",Avengers: Endgame (2019)
-https://r2---sn-npoeenle.googlevideo.com/videoplayback?expire=1579949238&ei=lQAsXqjuIrOL3LUPz8CBkAk&ip=2400:6180:0:d1::69c:f001&id=1f9d3b8e6824c7d2&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=10711.225&lmt=1579938755729324&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgUhPg4Tu2iyI__-2Ef3GoU9pLsDjoIaH-N6K8i4es42ECIFbXL4Jr3muKtIudqWZYaWyGBK68B9hXppjU55OJUGWD&cm2rm=sn-npozz7l,sn-npoll7l&req_id=9754838b7d29a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npozz7l&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeenle&ms=ltu&mt=1579941984&mv=m&mvi=1&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAKzvYbQqc19DyJMiArhlbmAeh1s9Q5KObyVGKirK32pyAiEA3UuuzJshVXFSGhyxIVSuUaIE8nvTi4ifx-uzj8Kw2tk=
+#EXTINF:0 tvg-id="avi" group-title="VOD",BAYWATCH 2017 
+https://www.dropbox.com/s/6enpbfp73zv0fiw/%5BFILMAPIK.CA%5D%20-%20Baywatch%20%282017%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",SKYFALL 
+https://www.dropbox.com/s/4qkx2h02e1qhrdv/%5BFILMAPIK.CA%5D%20-%20Skyfall%20%282012%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 7 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/58fa949um2cl56m/Nonton%20TV%20Series%20The%20Flash-%206x5%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 6 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/58fa949um2cl56m/Nonton%20TV%20Series%20The%20Flash-%206x5%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 5 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/58fa949um2cl56m/Nonton%20TV%20Series%20The%20Flash-%206x5%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 4 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/ha49l09n8yzc5o9/Nonton%20TV%20Series%20The%20Flash-%206x3%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 3 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/ha49l09n8yzc5o9/Nonton%20TV%20Series%20The%20Flash-%206x3%20Streaming%20Film%20Serian%20Terbaru%20Subtitle%20Indonesia.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 2 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/swb65r6bkma9wcn/video_2.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",EPISODE 1 - THE FLASH SEASON 6 
+https://www.dropbox.com/s/fmp5w42i5sbn18j/video.mp4?dl=1 
 
-#EXTINF:-1 tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/19029600.jpg" group-title="VOD",Joker (2019)
-https://r4---sn-npoe7n76.googlevideo.com/videoplayback?expire=1579947111&ei=R_grXuaGDZDqoQPVjZ24Dg&ip=2400:6180:0:d1::69c:f001&id=8b4284e3b804b550&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6932.526&lmt=1579871669132765&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgZa0NvMbBaHoXPmTtyuThc40BU44laz_2PaGHpV4TFaUCIQDy1-a5_Ggb9_hWZGTR-U1VhXLuPbo1TewBs6WZGI_ePQ==&mip=167.71.204.81&redirect_counter=1&rm=sn-npoer7z&req_id=eefe4180a3f7a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7n76&ms=nxu&mt=1579939825&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgQv1NXsqettZAmqAfWcZnNchBITKQGlg9sQxBMM0ooVUCIQD316xXwdOthjl998BiJdqCSzEjEpdy5yyTwiasWRjukw==
+#EXTINF:0 tvg-id="ext" group-title="VOD",INTO THE SUN 2005 
+https://www.dropbox.com/s/t34wk1f8km3ik6k/%5BFILMAPIK.CA%5D%20-%20Into%20the%20Sun%20%282005%29.mp4.CA%5D%20-%20Into%20the%20Sun%20%282005%29?dl=1
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",All in 2020 
+https://www.dropbox.com/s/jbu7htx11xkuaz8/%5BFILMAPIK.CA%5D%20-%20All%20In%20%282012%29.mp4.CA%5D%20-%20All%20In%20%282012%29?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",CHINA SALESMAN 2017 
+https://www.dropbox.com/s/hlma7vmqjzzj1tg/%5BFILMAPIK.CA%5D%20-%20China%20Salesman%20%282017%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Dora and The Lost City of Gold 2019 
+https://www.dropbox.com/s/1cytiv6ikw3v6va/%5BFILMAPIK.CA%5D%20-%20Dora%20and%20the%20Lost%20City%20of%20Gold%20%282019%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",HUSTLERS 2019 
+https://www.dropbox.com/s/y14ynqnfumxv38l/%5BFILMAPIK.CA%5D%20-%20Hustlers%20%282019%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",COMANDO 3 2019 
+https://www.dropbox.com/s/jqjqq2r465lpkyf/%5BFILMAPIK.ID%5D%20-%20Commando%203%20%282019%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",AMERICAN EXIT 2019 
+https://www.dropbox.com/s/bqh5jzcevqbtvvb/%5BFILMAPIK.ID%5D%20-%20American%20Exit%20%282019%29.mp4?dl=1
 
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Corrupted 2019 
+https://www.dropbox.com/s/owtbs3mv6eg96i9/%5BFILMAPIK.ID%5D%20-%20The%20Corrupted%20%282019%29%20-%20Google%20Drive.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Pete Davidson Alive From New York 2020 
+https://www.dropbox.com/s/ycwxv7ioq846fpq/%5BFILMAPIK.ID%5D%20-%20Pete%20Davidson-%20Alive%20from%20New%20York%20%282020%29%20-%20Google%20Drive.mp4?dl=1 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wO0rlZ1d2uUdNejPNlZWIDwNxgJ.jpg" group-title="VOD",Stand by Me Doraemon
-https://doc-0s-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/0auas8fusuk073krvfscev970kb3sq25/1579939200000/16346764758246125392/*/19l56sTrvUXGJeK8RSowzTnan3QRL9Ubx?e=download&access=JZvEStFf%2FYuIlSdvm8pEcA8GcZ9ifUjrI5EpgZD0sOOog9k83afoJCqBMaYKrMDrBs0xZNhsO9uAyOMpXBwIikneS41o4RiieymDfh%2BCrC%2FsJQf1HCY0lgiUxR1UQtSxaHOZzuACHHLI%2BwRtQHiUFycen2GpkPlEELZp7dYeq6RoZP%2FsfgSp3zYOUBRRbJSwhmLaXSiPZz3TFvevxcUBQVRaeMsPvMTXQ7zynywTFhitflPgy9U%2BePHQebqx8D3ooHDPtTd5gn5bCYeBpPWz9wq9bhP4dcma%2Faj2H7ZA68oQ%3D%3D&point=database-linkada
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/09/inVq3FRqcYIRl2la8iZikYYxFNR.jpg?resize=60%2C90" group-title="VOD",Deadpool (2016)
-https://r4---sn-npoeenl7.googlevideo.com/videoplayback?expire=1579952264&ei=aAwsXpSgHpDqoQPVjZ24Dg&ip=2400:6180:0:d1::69c:f001&id=66ff6eba743884d3&itag=37&source=picasa&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6486.331&lmt=1579870760450926&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAOqMGxeqB6jinVmQIoCjL2I8YkMnCdtdugQrIR8Wq3TKAiEAzSAOLEjaIOHjyCD0_0E2eiBdvfT1kHkQASYX4yNqktI=&mip=167.71.204.81&redirect_counter=1&rm=sn-npozl7z&req_id=9f1fdca1e89da3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeenl7&ms=nxu&mt=1579944986&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAKKs6GRzfqCu10T-EYqcjCXAjIIVLuY4-ssOTnqdSqmFAiEAuhO1XFiIKjK1FA58LWb9usSSpt3YGvz6W8fgQnnh63o=
+#EXTINF:0 tvg-id="avi" group-title="VOD",Money 
+https://www.dropbox.com/s/op3ouomi74q31cv/%5BFILMAPIK.CA%5D%20-%20Money%20%282019%29.mp4?dl=1 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/04/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg?resize=60%2C90"VOD",Deadpool 2 (2018)
-https://r5---sn-npoe7nlz.googlevideo.com/videoplayback?expire=1579952736&ei=QA4sXvC9H7uV1AbNjYTQDg&ip=2400:6180:0:d1::69c:f001&id=928be844007a3cfc&itag=37&source=picasa&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=8039.700&lmt=1579922820855165&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgO9GHEljhUy4589qo9vZ-HZepSDJOEcv8CHofX88us08CIQC5DfOfrTPXmCVDhietCd7-yGfLXW5coz9v-xqut07SNQ==&redirect_counter=1&rm=sn-npozs76&req_id=d678e0b1295c36e2&cms_redirect=yes&ipbypass=yes&mip=110.137.179.232&mm=30&mn=sn-npoe7nlz&ms=nxu&mt=1579948393&mv=u&mvi=4&pl=24&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgG59G5-MV8IFBFa_VfzPkw9aJFlAGT-ctk8sxjoz6i4cCIC02Yua3QBbgX6vIkdVIWQsqvOgxzgyShXwU3dBGZdqt
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Monkey King 3 
+https://www.dropbox.com/s/tb5pkl8i6dwply6/%5BFILMAPIK.CA%5D%20-%20The%20Monkey%20King%203%20%282018%29_2.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Independence Day Resurgence 2016 
+https://www.dropbox.com/s/ls1la7l3tvxqe3c/%5BFILMAPIK.CA%5D%20-%20Independence%20Day-%20Resurgence%20%282016%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Ip Man 4 
+https://www.dropbox.com/s/muaekohz6k5znsz/%5BFILMAPIK.CA%5D%20-%20Yip%20Man%204%20%282019%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Cinderella 
+https://www.dropbox.com/s/fqhdbvu44ljv8kg/%5BFILMAPIK.CO%5D%20-%20Cinderella.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Queen Salim 
+https://www.dropbox.com/s/u8inpha1vyourpz/queen%20salim.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Cupid 2020 
+https://www.dropbox.com/s/dkhjiovqc164g4f/cupid%202020.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",To All Boys 
+https://www.dropbox.com/s/ycsjkpk9exrs76m/%5BFILMAPIK.CA%5D%20-%20To%20All%20the%20Boys-%20P.S.%20I%20Still%20Love%20You%20%282020%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Enter The Fat Dragon 
+https://www.dropbox.com/s/6a3qlf8wm21405k/%5BFILMAPIK.ID%5D%20-%20Enter%20the%20Fat%20Dragon%20%282020%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Disturbing The Peace 
+https://www.dropbox.com/s/ng6iwqq2z0jphhj/%5BFILMAPIK.ID%5D%20-%20Disturbing%20the%20Peace%20%282020%29.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Jumanji Next Level 
+https://www.dropbox.com/s/yv8i72gf2tx9vm8/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf%20%281%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Jumanji Next Level Backup 
+https://www.dropbox.com/s/c92k4a61aqdbrx2/JURAGANFILM.MOBI%20-%20Jumanji_%20The%20Next%20Level%20%282019%29%20jf.mp4?dl=1
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Midway 2019 
+https://www.dropbox.com/s/wb68greo0bp4l3t/%5BFILMAPIK.CA%5D%20-%20Midway%20%282019%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Midway 2019 backup 
+https://www.dropbox.com/s/bv631y4ipz5q25s/%5BFILMAPIK.CA%5D%20-%20Midway%20%282019%29.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Iron Man 3 
+https://dl.dropboxusercontent.com/s/4fc3qw9xd77725x/JURAGANFILM.TV%20-%20Iron%20Man%203%20%282013%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",HOTEL MUMBAI 
+https://dl.dropboxusercontent.com/s/9ykdbxpvi4zisla/hotelmumbai.mp4?dl=0 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",FROZEN 
+https://dl.dropboxusercontent.com/s/imdx06da3maf5lj/Nonton%20Frozen%20II%20%282019%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",FROZEN II 
+https://dl.dropboxusercontent.com/s/snq09nk3cs89nnv/Nonton%20Frozen%20%282013%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",FTHE EQUALIZER 2 
+https://dl.dropboxusercontent.com/s/0tjkh8s85wnax1w/-%20The%20Equalizer%202%20%282018%29.mp4?dl=0 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",SKYSCRAPER 
+https://dl.dropboxusercontent.com/s/vho2go25eggmjev/-%20Skyscraper%20%282018%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",Pacific Rim 2 
+https://dl.dropboxusercontent.com/s/rinppgsy74iz7x8/%20-%20Pacific%20Rim%20Uprising%20%282018%29%20jf.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",HER (2013) 
+https://lh3.googleusercontent.com/CTVl1ZdIVmb6CO3U-ydOHk70u4gxH8Ye9PXkKmO5GPGM1qFOUag1jKny1ukL1iLSB5ktFlnzvlbmxHqpBA=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP Man 1 (2008) 
+https://lh3.googleusercontent.com/oMGp_o3U-InROk-2o3nP-AqbKi_vjjZN2bZCchdqLcCtgdSOrMNSHNm6HbyPHBTr1ZlZS5Aubrkcxuy1jg=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP Man 2 (2010) 
+https://lh3.googleusercontent.com/VfnOW9uLw5QwzvELL6GhHDj_lmuVX8lEuXGwjEn0WI34BqWAFhoTbgeLHlPxWQOO12jB2kVh88eH9gTqEQ=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP Man 3 (2015) 
+https://lh3.googleusercontent.com/PGwEbRTcI9r2yl_TlKIVvkcW5MCr-kmSiJYvdpDInZ6hGOW1vB0sCek1rzxiLWNWg4FWYKnBBlkrFZ6g9w=m37 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",IP Man 4 (2019) 
+https://lh3.googleusercontent.com/kUDHxNjI4ibMy1MpFUbPfH82QYIkjkGqa35RZfko8IIjTjZg4HJeQ-EkFT5PXjKQzfd9ngFC638YTsYK2Q=m37 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Enter the Fat Dragon (2020) 
+https://www.googleapis.com/drive/v3/files/1c0Qjh2y5n0fkpC6-cN6sqH4JRnSm0uc6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Ip Man and Four Kings (2019) 
+https://www.googleapis.com/drive/v3/files/11Gi0cFiAoAACGd_wIvWvEX6hWP9NYccw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Remain Silent (2019) 
+https://www.googleapis.com/drive/v3/files/1F6L-vTBUA-R0aZmeGPG2mCWwhSmzWMeW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+ 
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Knight of Shadows: Between Yin and Yang (2019) 
+https://www.googleapis.com/drive/v3/files/1VeY_dRJQmRl8HQWw7Kpuv1eJR5fO2Zti?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",My Punch-Drunk Boxer (2019) 
+https://www.googleapis.com/drive/v3/files/1rSdZdYDJ4PHJSRRcagJ8PyLQfWF1zSHq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Kingdom (2019) 
+https://www.googleapis.com/drive/v3/files/1vtbYgCiSL5uBVeR7g5AW4d6chg5hnAbE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Invincible Dragon (2019) 
+https://www.googleapis.com/drive/v3/files/19uyGdVlHea9JED5CF4Iq5Rs3PpQMKsNS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Furies (2019) 
+https://www.googleapis.com/drive/v3/files/1bi3DeLkp1bR4yT4N6QaThk4eI5Mzkt6a?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",Reborn (2018) 
+https://www.googleapis.com/drive/v3/files/1kg5VWGx4nyVx23vl6ddVIm0BF0pdhXPo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD",The Last Women Standing (2015) 
+https://www.googleapis.com/drive/v3/files/1KJsAfRYpVeg_ZNxV32FnNS-bSbiPMjqf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",Ni No Kuni (2020) 
+https://lh3.googleusercontent.com/YdzjEGGEit92wWE614iznWfxU7PdCX17BqmV4Ly39hfnxIamUJ1qoAbFdxAVQhu_7Yl8KCn6cDWySCACVA=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Swan Princess : Kingdom of Music (2019) 
+https://lh3.googleusercontent.com/CWjQu_O94IB-kK5NPNUGxYXz-awys552O6lXKaBLl0XoITFqN5EFoTBkoINU4QJoVPFPteDDq0MHE13gXg=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",Frozen 1 (2013) 
+https://lh3.googleusercontent.com/2HB7hfTNIHCoM8t5z0nV_O1gpjqdNugyI9TxWp_ySFgngzV6isrlcgJZnY_BwVOYhBW4C-XnVQ2yH0lsTA=m18 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",Frozen 2 (2019) 
+https://lh3.googleusercontent.com/ZsZmmSyKGJ-PRfKovSTWlG0XRRx89XAl0aHlvotUJYhv2toEkurohfQM-LhJFLrKngOiVJXuvahRboMo_A=m37 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",A Shaun the Sheep Movie: Farmageddon (2019) 
+https://lh3.googleusercontent.com/yoib9ke6s1K1A1BBZ8eYoFv-DAGk6azNtf_ldxtvJTzDAmRwCtdqZGIJBxDcif6WLuCyfSvL308J8Qe3-Q=m37 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD",The Addams Family (2019) 
+https://lh3.googleusercontent.com/pu1ewpmVrLNrOSpSXhYiA5V90-0PoXnCx-IfycGu_FuaCM3sUkpBKHUa728aZhwJg1-k9sbPuuqLZK2E4A=m37 
+
+(VOD INDO)
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Gundala
+http://www.supercartube.com/media/videos/h264/999_720p.mp4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",TITUS 1999 
+https://www.dropbox.com/s/6mvelzxd8k9nu6k/Titus%201999.mp4?dl=1
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Warkop DKI - Mana Tahan 
+https://www.dropbox.com/s/f64h7truysnswta/Warkop%20Dki%20-%20Mana%20Tahan%20%281979%29%20Full%20HQ.mp4?dl=1 
+ 
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",WARKOP DKI REBORN PART1 
+https://www.dropbox.com/s/3b85jnjn1vb8ia6/Warkop%20DKI%20Reborn-%20Jangkrik%20Boss%282016%29.ts?dl=1
+ 
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",WARKOP DKI REBORN PART2 
+https://www.dropbox.com/s/ydui6m188oh8uxs/Warkop%20DKI%20Reborn-%20Jangkrik%20Boss%282017%29.ts?dl=1
+ 
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",WARKOP DKI 2019 
+https://www.dropbox.com/s/5z10rarks0lxt61/Warkop%20DKI%20Reborn%20%282019%29.ts?dl=1
+ 
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",SI DOEL 2018 
+https://www.dropbox.com/s/bgva70rgc24nwvh/Si%20Doel%20The%20Movie%20%282018%29.mp4?dl=1
+ 
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",SI DOEL 2019 
+https://www.dropbox.com/s/6bzylqzhfjds56c/Si%20Doel%20the%20Movie%202%20%282019%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA",SI DOEL 2020 AKHIR CINTA SI DOEL 
+https://www.dropbox.com/s/9fi81x96jkqtvrt/Akhir%20Kisah%20Cinta%20si%20Doel%20%282020%29.ts?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Orang Kaya Baru 
+https://dl.dropboxusercontent.com/s/gso0gik4x02krh9/ornag%20kaya%20baru.mp4?dl=0
+ 
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Udah Putusin Aja 
+https://bitball.b-cdn.net/movies/2020-05/05-12-2020/Udah.Putusin.Aja.2018.720p.WEB-DL.IDFL.info.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Pulang
+https://bitball.b-cdn.net/movies/2020-05/05-01-2020/Pulang.2018.480p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA", Perburuan
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Perburuan.2019.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Identitas 
+https://dl.dropboxusercontent.com/s/juttndjjkfpen4v/3%20Identitas.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Magic Hour 
+https://dl.dropboxusercontent.com/s/2stabpnq5jxhxqc/4%20Magic%20Hour.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Bintang di Langit Belitong 
+https://dl.dropboxusercontent.com/s/gei5oabqnwjz7gb/5%20Bintang%20di%20Langit%20Belitong.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Milea Suara Hati Dilan
+https://bitball.b-cdn.net/movies/03-01-2020/Milea2020.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",The Mentalist 
+https://dl.dropboxusercontent.com/s/a6mniyfl87hz60m/7%20The%20Mentalist.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Pengakuan Seorang Pelacur 
+https://dl.dropboxusercontent.com/s/6983olstgq5xsl8/8%20Pengakuan%20Seorang%20Pelacur.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Rocker Balik Kampung 
+https://dl.dropboxusercontent.com/s/0cmkqcfr8rah83t/9%20Rocker%20Balik%20Kampung.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Penari Malam 
+https://dl.dropboxusercontent.com/s/stcruwgxmcf0k84/10%20Penari%20Malam.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="ext" group-title="VOD INDONESIA",Akibat Hamil Muda 
+https://dl.dropboxusercontent.com/s/vw3j3ypxpmsemy6/11%20Akibat%20Hamil%20Muda.m3u8?dl=0 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - KESEMPATAN DALAM KESEMPITAN 
+https://www.dropbox.com/s/874owj3kbylsi7c/10000000_162590191781012_3476161377626562068_n.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - OBAT AWET MUDA BARENG 
+https://www.dropbox.com/s/e4wwk2e04an7gzq/OBAT%20AWET%20MUDA%20%20Bareng%20WARKOP%20DKI.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - MAJU KENA MUNDUR KENA 
+https://www.dropbox.com/s/ih79expgfm97gp5/Warkop%20DKI%20-%20Maju%20Kena%20Mundur%20Kena%20%281983%29%20720p%20HD.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI REBORN - JANGRIK BOSS PART 1 
+https://www.dropbox.com/s/gh6t54bv4z1d8iu/Warkop%20DKI%20REBORN%20Full%20Movie%2C%20Jangkrik%20Boss%20part%201.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - DONGKRAK ANTIK 
+https://www.dropbox.com/s/e1fjpysf6sjhu2a/Dongkrak%20antik.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - GENGSI DONG 
+https://www.dropbox.com/s/ez3m3rq2fdmd7y0/WARKOP%20DKI%20%28Gengsi%20Dong%29%201980%20FULL%20HQ.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - MANUSIA 6 JUTA DOLAR 
+https://www.dropbox.com/s/kgg99bsdbne8l34/%5BKomedi%5D%20Warkop%20DKI%20-%20Manusia%206%20Juta%20Dolar.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",WARKOP DKI - PINTAR PINTAR BODOH 
+https://www.dropbox.com/s/1dg810f032qcca0/Warkop%20DKI%20Pintar%20pintar%20Bodoh%201980.mp4?dl=1 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Pengabdi Setan (2017) 
+https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Danur (2017) 
+https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",Ayat-Ayat Cinta 2 (2017) 
+https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:0 tvg-id="avi" group-title="VOD INDONESIA",KINGSMAN the golden circle 
+https://www.googleapis.com/drive/v3/files/13YSPMp_KEUa7iecQ0FmxVOlKC9LoB-z4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4 
+
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA", Sandera 
+https://www.dropbox.com/s/vgwd3x4zcscbjvz/breee.mp4?dl=1 
+
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA", Reksa 
+https://www.dropbox.com/s/n18hjtt8ahp0ozc/reksa.mp4?dl=1 
+
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA", Berubah 
+https://www.dropbox.com/s/jyg3uzlz9cqe5f6/berrrrrr.mp4?dl=1 
+
+#EXTINF:-1 tvg-logo="" group-title="VOD INDONESIA", Tarung 
+https://www.dropbox.com/s/p4c4k3n5xdh6jb7/bqw.mp4?dl=1 
+
+(VOD INDIA)
+
+#EXTINF:0 tvg-id="avi" group-title="MOVIES INDIA",Manikarnika 2019 
+https://www.googleapis.com/drive/v3/files/1J2jsQAok9serbWP5J5YLqFYeuII9tyIW?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
+ 
+#EXTINF:0 tvg-id="avi" group-title="MOVIES INDIA",De De Pyaar De (2019) 
+https://www.googleapis.com/drive/v3/files/1E_nWl7ovyqn6ZXHXnGbdspELtcRciMJ-?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ 
+
+#EXTINF:0 tvg-id="avi" group-title="MOVIES INDIA",BADLA 2019 
+https://www.googleapis.com/drive/v3/files/1Xh3uZHi_aYrdg0611xOEyM1Vk2d5k8WG?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ 
+
+#EXTINF:0 tvg-id="avi" group-title="MOVIES INDIA",NOTEBOOK 2019 
+https://www.googleapis.com/drive/v3/files/106-2JrAUJJqmlDa2pt2SrSfWwEVPW8r2?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ 
+
+#EXTINF:0 tvg-id="avi" group-title="MOVIES INDIA",OCTOBER 2019 
+https://www.googleapis.com/drive/v3/files/1aC22vMUIJMPfMtHhZFI0vJd0YY7JlEyG?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",3 IDIOT (2009) 
+https://lh3.googleusercontent.com/tVOySu2MRR-p8oKv_8ijQGOLIru-hUJyT36_fcKYofSPebUNGzkSr8jXFBr0TVZP4ti9bDMlj1oG0liz=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",KAL HO NAA HO (2003) 
+https://lh3.googleusercontent.com/sX4gTOmklhyhyMgh9tAVn7e-o7llxIYBNSRAd5wwfJiPzh1K9WhMmTzeBLc8A7hkseBcQD6SXqZsCxAo=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",KABHI KHUSHI KABHIE GHAM (2001) 
+https://lh3.googleusercontent.com/U6mXM8Ugjc9QawBgBJqK4pa3XdFz6nNVX9cpCe7p0YvE17iH6BBoOKGw9ft279NSgMz_JbYQZ3bOYxB-=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",KOI MIL GAYA (2003) 
+https://lh3.googleusercontent.com/OFTEaNq10uSXX1Cs2abUYTP_DwfHA8wbF9nRtcrnIdNuydcMMobs6cHRn38uoSepKSB_cP-ojtLPCqTu=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",PK (2014) 
+https://lh3.googleusercontent.com/nnuzijCF9xmbg1l_cnXW3oebaq6e1tnUtqYaqOBRu30UdtmhISleixDOxMdKUjT5mY7X3yJvDoi7NJJt=m22
+ 
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",Ghost (2019) 
+https://lh3.googleusercontent.com/SRJ95uOmmzmKBHySN2MnQYqXnC1IyWcX3p5RaTxbT-7Cf2oAl3V1OXNYFdlrU3jr63_9hw8jzR0GwCCvhg=m18 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",No name 
+https://lh3.googleusercontent.com/UnKfilWihOuyv1PG_iDODkwx7hwxPU9hVVO2M4Z4ZlcbsOOOr9p7O5hbFGZVEF2Eb0pYdVNh-atmU-GJWw=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",Motichoor Chaknachoor (2020) 
+https://lh3.googleusercontent.com/6oA0G7lstf7ZEEsJfxLgjKncQVd6m9WlvQlHeI21H15Fpy3tINc7v-3gMK7XvU1bMnpNPBbM1QT-wGZ7PQ=m22 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",Pal Pal Dil Ke Paas (2019) 
+https://lh3.googleusercontent.com/YEkrSKdMXDSxMbqCQGyidtH7ZKQt-p7LjvSp4_RUwUDkGu3H4LD4WuvW6Ig8Fw4g1LQ7Se5w5ZKO4tQ50w=m18 
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES INDIA",Pati Patni Aur Woh (2019) 
+https://lh3.googleusercontent.com/95wS52iWrQ3WDD0lYHn8Yg8Lbg5sPPAVwOYfoNf-FSnCTcpvrInTVGZj6xBNdxKjeo8nsObZdKW5pw4t6g=m22
